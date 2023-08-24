@@ -7,5 +7,6 @@ I'm Gabrielle form Texas ,and I am an IB student. I am very passionate about STE
 
 I am apart of my robotics club where we participate in multiple competitions including GCER.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnegab002)](https://github.com/anuraghazra/github-readme-stats)
